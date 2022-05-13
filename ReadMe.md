@@ -4,9 +4,9 @@ To obtain the labels in EmoReact, crowd workers from the online crowd sourcing p
 
 The length of these videos are between 3 seconds to 21 seconds with an average length of about 5 seconds. The emotions have been expressed by 63 different children, 32 female and 31 males, with some diversity in ethnicity. 
 
-
 Visual features are extracted using the open-source tool OpenFace. We selected frames where the faces are successfully detected. Audio features are extracted using COVAREP, with frame length of 10 milliseconds. After extracting the raw features for each frame, we summarize the video for both modalities by computing the mean and standard deviation for all frames and then concatenate them. We are also releasing the featureset with the dataset. 
 
-To request dataset and features please fill out the form here: https://www.behnaznojavan.com/data
+EmoReact is available to public for academic research purposes. To get access to data please fill out End-User License Agreement. After receiving your request form, we will get back to you by login information. Please make sure to use academia/industry affiliated email in filling out the form. Data cannot be released to personal emails. Please allow at least one week for your request to be processed. 
 
+EULA form: https://docs.google.com/forms/d/1Pk7I9mIUBItVKrhZDM0grbucS0wnJ33zXbyisyNdso8/edit?usp=forms_home&ths=true
 
